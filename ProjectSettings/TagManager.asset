@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - wall
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - wall
+  - Ground
+  - Player
+  - Enemy
+  - Chest
+  - SkillSwordObject
+  - Gold_Coin
+  - NPC
+  - Dash
+  - AirWall
+  - None
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3661612549
+    locked: 0
+  - name: Ground
+    uniqueID: 2196647879
+    locked: 0
+  - name: Chest
+    uniqueID: 2051619375
+    locked: 0
+  - name: Enemy
+    uniqueID: 3788561747
+    locked: 0
+  - name: Player
+    uniqueID: 2760583499
+    locked: 0
+  - name: VFX
+    uniqueID: 3474257567
+    locked: 0
+  - name: UI
+    uniqueID: 842992691
+    locked: 0

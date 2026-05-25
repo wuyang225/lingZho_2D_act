@@ -1,0 +1,24 @@
+{
+  "maxHealth": 100,
+  "healthRegen": 0,
+  "attackSpeed": 1,
+  "damage": 10,
+  "critChance": 30,
+  "critPower": 150,
+  "swordDamage": {
+    "elementDamageScale": 1,
+    "elementDurationScale": 1,
+    "elementType": 0,
+    "damage": 10
+  },
+  "shardDamage": {
+    "elementDamageScale": 1,
+    "elementDurationScale": 1,
+    "elementType": 0,
+    "damage": 10
+  },
+  "fireDamage": 10,
+  "iceDamage": 10,
+  "iceDuration": 2,
+  "lightningDamage": 10,
+  "elementType":0}

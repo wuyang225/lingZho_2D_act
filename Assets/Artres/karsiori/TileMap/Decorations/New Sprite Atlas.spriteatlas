@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 390501f7c18ef384eb17584a5b462691, type: 3}
+    - {fileID: 21300000, guid: 390501f7c18ef384eb17584a5b462691, type: 3}
+    - {fileID: 2800000, guid: a97b342cc5260f04cafe1eb0535e607f, type: 3}
+    - {fileID: 2800000, guid: 204aa51c2bf1ec24581c9d3474d90682, type: 3}
+    - {fileID: 2800000, guid: 441f0c2aca2fff545bc517e6f139dcd3, type: 3}
+    - {fileID: 2800000, guid: 052ccebcbaae6204f803204b2645d91c, type: 3}
+    - {fileID: 2800000, guid: 68304e1b7849e7843b7784e79792ff89, type: 3}
+    - {fileID: 2800000, guid: 0601d1c0d4f47414d8f4753656fb214d, type: 3}
+    - {fileID: 2800000, guid: 968fb733146be924a9feb390a617f3e5, type: 3}
+    - {fileID: 2800000, guid: 978dc763e47067149be399903ad6addb, type: 3}
+    - {fileID: 2800000, guid: 1ee73367054f56241a4324eb7326adfa, type: 3}
+    - {fileID: 2800000, guid: 99da83ba741f67f499ae9ac3544776b5, type: 3}
+    - {fileID: 2800000, guid: 86647a41d202c7d42bb73668e9f329b0, type: 3}
+    - {fileID: 2800000, guid: d45bba719c38eef499144f2e7a1d042f, type: 3}
+    - {fileID: 2800000, guid: 86a1d6e5913974b46810fb24e91348a5, type: 3}
+    - {fileID: 2800000, guid: bf1ec6d0f702cf64aa0dcef1dde074e1, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0601d1c0d4f47414d8f4753656fb214d, type: 3}
+  - {fileID: 21300000, guid: bf1ec6d0f702cf64aa0dcef1dde074e1, type: 3}
+  - {fileID: 21300000, guid: 86647a41d202c7d42bb73668e9f329b0, type: 3}
+  - {fileID: 21300000, guid: d45bba719c38eef499144f2e7a1d042f, type: 3}
+  - {fileID: 21300000, guid: 968fb733146be924a9feb390a617f3e5, type: 3}
+  - {fileID: 21300000, guid: 978dc763e47067149be399903ad6addb, type: 3}
+  - {fileID: 21300000, guid: 86a1d6e5913974b46810fb24e91348a5, type: 3}
+  - {fileID: 21300000, guid: 1ee73367054f56241a4324eb7326adfa, type: 3}
+  - {fileID: 21300000, guid: 390501f7c18ef384eb17584a5b462691, type: 3}
+  - {fileID: 21300000, guid: 441f0c2aca2fff545bc517e6f139dcd3, type: 3}
+  - {fileID: 21300000, guid: 99da83ba741f67f499ae9ac3544776b5, type: 3}
+  - {fileID: 21300000, guid: 68304e1b7849e7843b7784e79792ff89, type: 3}
+  - {fileID: 21300000, guid: 204aa51c2bf1ec24581c9d3474d90682, type: 3}
+  - {fileID: 21300000, guid: a97b342cc5260f04cafe1eb0535e607f, type: 3}
+  - {fileID: 21300000, guid: 052ccebcbaae6204f803204b2645d91c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - GRASS 1-1
+  - MUSHROOM 2-1
+  - GRASS 3-2
+  - MUSHROOM 1-1
+  - GRASS 1-2
+  - GRASS 2-1
+  - MUSHROOM 1-2
+  - GRASS 2-2
+  - BUSH FOREGROUND 1-1
+  - BUSH FOREGROUND 1-5
+  - GRASS 3-1
+  - BUSH FOREGROUND 1-7
+  - BUSH FOREGROUND 1-4
+  - BUSH FOREGROUND 1-3
+  - BUSH FOREGROUND 1-6
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0

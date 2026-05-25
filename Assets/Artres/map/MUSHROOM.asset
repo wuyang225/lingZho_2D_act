@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc5e1eccedb29e4894bbfab99032590, type: 3}
+  m_Name: MUSHROOM
+  m_EditorClassIdentifier: 
+  m_Cells:
+  - m_Tile: {fileID: 0}
+    m_Matrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Pivot: {x: 0, y: 0, z: 0}
+  m_CanChangeZPosition: 0
+  m_Anchor: {x: 1.62, y: -5, z: 0}
+  m_Prefabs:
+  - {fileID: 8471595538415129814, guid: 4f5cf4d0a64ddc543a47e27de91a029e, type: 3}
+  - {fileID: 6120258574145819664, guid: d7c8007838349664fb066b039271119e, type: 3}
+  - {fileID: 247446308208144176, guid: e2cc021e8bca8c447848b37413950cd8, type: 3}
+  - {fileID: 4444313292973694616, guid: 33ba03f6b77344249b407754a90adce9, type: 3}
+  - {fileID: 3154812585680937265, guid: 1ace7f62e4d55e04aa50f4928cbe843a, type: 3}
+  - {fileID: 1897285786099715600, guid: 0280bade343614944b6935d888b1155c, type: 3}
+  - {fileID: 4003099046281891615, guid: 12cfeac0438b15e4788ee2357c421a75, type: 3}
+  m_PerlinScale: 0.999
